@@ -32,4 +32,3 @@ no patchwork of tools that you have to constantly switch between,
 no system that only works after endless installation, plugging in, fine-tuning.
 
 I just write. That's all.
-If anyone knows of anything close, let me know.
